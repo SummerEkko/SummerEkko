@@ -7,6 +7,6 @@
 - 😄 Pronouns: He/Him
 - 💻 Skillsets: Full-Stack development with platform infra experience
   - Front-end: React.js, TypeScript, Next.js, React Native
-  - Back-end: Django, Spring Boot, GOframe, Express
+  - Back-end: Django, Spring Boot, GOframe, Express.js
   - Database: MongoDB, MySQL, PostgreSQL
   - Cloud Platform: AWS, GCP
