@@ -6,6 +6,7 @@
 - 📧 Feel free to reach out to me at: summr3ch0@gmail.com
 - 👨 Pronouns: He/Him
 - 💻 Skillsets: Full-Stack development with extensive experience in platform infrastructure
+  - Programming Language: Python, Java, Golang, Node.js, C++, TypeScirpt, MATLAB
   - Front-end: React.js, TypeScript, Next.js, React Native
   - Back-end: Django, Spring Boot, GoFrame, Express.js
   - Database: MongoDB, MySQL, PostgreSQL
