@@ -9,6 +9,6 @@
   - Programming Language: Python, Java, Golang, Node.js, C++, TypeScirpt, MATLAB
   - Front-end: React.js, Next.js, React Native
   - Back-end: Django, Spring Boot, GoFrame, Express.js
-  - Middleware: Redis, Message Queue, AWS API Gateway, ORM Framework  
+  - Middleware: Redis, Message Queue, AWS API Gateway, Database Connection Pool, ORM Framework  
   - Database: MongoDB, MySQL, PostgreSQL
   - Cloud Platform: AWS, GCP
